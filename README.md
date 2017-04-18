@@ -1,3 +1,7 @@
+# This repository is longer maintained. Consider using <https://github.com/kennytm/lproj2es> instead.
+
+-----
+
 This is a tool to convert the Apple Glossaries `*.dmg` into a single SQLite database for easy searching.
 
 # Requirements
